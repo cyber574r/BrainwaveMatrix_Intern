@@ -26,5 +26,5 @@ A powerful command-line tool that detects malicious, suspicious, and fake URLs u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/cyber574r/phishing-scanner.git
-   cd phishing-scanner
+  git clone https://github.com/cyber574r/BrainwaveMatrix_Intern.git
+   cd BrainwaveMatrix_Intern/Phishing_Link_Scanner
