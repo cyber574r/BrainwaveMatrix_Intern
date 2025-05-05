@@ -26,5 +26,5 @@ A powerful command-line tool that detects malicious, suspicious, and fake URLs u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/haidar-coo/phishing-scanner.git
+   git clone https://github.com/cyber574r/phishing-scanner.git
    cd phishing-scanner
